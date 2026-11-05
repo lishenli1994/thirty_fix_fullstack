@@ -1,0 +1,8 @@
+# IntelliJ IDEA / JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE build output
+out/
